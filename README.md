@@ -1,5 +1,10 @@
 # 340W-Final
 
+## Training data download:
+Training data's file is too large for uploading. Please download yourself.
+https://data.mendeley.com/datasets/5y9wdsg2zt/2
+
+
 ## Implementation platform:
 This project is created by Google Colab, and I recommand you to upload the "ipynb" file to Colab to excute the code.
 
